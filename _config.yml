@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : ## Comparison between Western city view painting and Chineses margin painting
 name                     : "Canaletto City View Painting and Chinese Margin Painting"
 description              : "There are several similarities and diffenrences between Chinese ancient margin paintings in 10th century and western city view paintings in 14～15th century."
-url                      : # https://avatars.githubusercontent.com/u/92377298
+url                      : # "https://avatars.githubusercontent.com/u/92377298"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # "https://avatars.githubusercontent.com/u/92377298"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
