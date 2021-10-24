@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Canaletto City View Painting and Chinese Margin Painting"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : ## Comparison between Western city view painting and Chineses margin painting
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "There are several similarities and diffenrences between Chinese ancient margin paintings in 10th century and western city view paintings in 14～15th century."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
