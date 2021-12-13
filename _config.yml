@@ -24,9 +24,9 @@ name                     : "Macro Polo's Journey"
 description              : "This website is to introduce the stories along the tarce of Macro Polo's exploration."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 =======
-title                    : "Canaletto City View Painting and Chinese Margin Painting"
+title                    : "Macro Polo's Journey"
 title_separator          : "-"
-subtitle                 : ## Comparison between Western city view painting and Chineses margin painting
+subtitle                 : ## 
 name                     : "Canaletto City View Painting and Chinese Margin Painting"
 description              : "There are several similarities and diffenrences between Chinese ancient margin paintings in 10th century and western city view paintings in 14～15th century."
 url                      : # "https://avatars.githubusercontent.com/u/92377298"
@@ -111,7 +111,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ####"Comparison between Western city view painting and Chineses margin painting"
+  name             : ####" Macro Polo's Journey"
   avatar           : “https://avatars.githubusercontent.com/u/92377298?s=d920&v=4”
   bio              : "## Overview"
 
