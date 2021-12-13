@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 <<<<<<< HEAD
-title                    : "Canaletto City View Painting and Chinese Margin Painting“
+title                    : "Macro Polo's Journey“
 title_separator          : "-"
-subtitle                 : ## Comparison between Western city view painting and Chineses margin painting
+subtitle                 : ## 
 name                     : "Macro Polo's Journey"
 description              : "This website is to introduce the stories along the tarce of Macro Polo's exploration."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
